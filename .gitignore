@@ -1,0 +1,12 @@
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+
+# Local agent state
+.copilot-tracking/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
